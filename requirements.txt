@@ -1,0 +1,19 @@
+# Essential Libraries
+streamlit
+opencv-python
+tensorflow
+torch
+transformers
+nltk
+pytesseract
+flask
+django
+pathlib
+webbrowser
+base64
+pdf2image
+requests
+
+# AI Models & APIs
+moder-genie-1.5-fast
+geniri-api
