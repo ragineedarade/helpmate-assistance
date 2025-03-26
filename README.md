@@ -1,7 +1,20 @@
  # AI-Powered Assistive Technology System
 
 ## 🔹 Overview
-This project is an **AI-powered real-time assistive technology system** designed to enhance accessibility for impaired individuals. The system leverages **IoT, Computer Vision, and NLP** to assist users in **mobility, communication, and daily tasks**, ensuring inclusivity and independence.
+This project is an **AI-powered real-time assistive technology system** designed to enhance accessibility for impaired individuals. The system leverages **Computer Vision and NLP** to assist users in **mobility, communication, and daily tasks**, ensuring inclusivity and independence.
+
+## 🔹 Problems, Treatment & Solution
+### **Problem Statement**
+Individuals with impairments often face challenges in **mobility, communication, and healthcare accessibility**. Existing assistive technologies are either too expensive, lack real-time functionality, or fail to integrate multiple features seamlessly.
+
+### **Proposed Solution**
+Our solution integrates **AI-powered real-time assistive technology** with a combination of **Computer Vision and NLP** to create a comprehensive support system. This system provides **navigation assistance, medical record management, and smart chatbot interactions** to improve independence and inclusivity.
+
+### **Treatment Approach**
+1. **AI-Powered Navigation System** – Uses computer vision to guide users safely.
+2. **Voice-Controlled Virtual Assistant** – Provides real-time communication support.
+3. **Medical Data Scanner & Reporter** – Scans and retrieves medical records efficiently.
+4. **AI Chatbot for Assistance** – Helps users with daily tasks, scheduling, and reminders.
 
 ## 🔹 Features
 ✅ **Smart Mobility Assistant** – Provides real-time navigation and obstacle detection.  
@@ -17,7 +30,6 @@ This project is an **AI-powered real-time assistive technology system** designed
 | **Frameworks & Libraries** | OpenCV, TensorFlow, NLTK, PyTorch, Flask/Django |
 | **Computer Vision** | Face Recognition, OCR (Tesseract) |
 | **NLP** | GPT, Dialogflow, Transformers |
-| **IoT & Hardware** | Raspberry Pi, Arduino, Edge AI |
 | **Database** | MySQL, Firebase, MongoDB |
 | **Cloud Services** | AWS, Azure, Google Cloud |
 | **Version Control** | Git, GitHub |
@@ -46,7 +58,7 @@ This project is an **AI-powered real-time assistive technology system** designed
 
 ## 🔹 How It Works
 1. **User Input:** The system takes inputs via **voice, text, or images**.
-2. **Processing:** AI models analyze the input using **Computer Vision, NLP, and IoT sensors**.
+2. **Processing:** AI models analyze the input using **Computer Vision and NLP**.
 3. **Response:** The system provides real-time assistance such as **navigation, alerts, medical record retrieval, and chatbot responses**.
 
 ## 🔹 Future Enhancements
