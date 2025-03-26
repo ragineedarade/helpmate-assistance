@@ -20,7 +20,7 @@ Our solution integrates **AI-powered real-time assistive technology** with a com
 ✅ **Smart Mobility Assistant** – Provides real-time navigation and obstacle detection.  
 ✅ **Voice-Controlled Virtual Assistant** – AI chatbot for seamless communication.  
 ✅ **Medical Reporter & Record Scanner** – Tracks medical history and scans documents.  
-✅ **Zhuda AIADMK Chatbot** – Smart AI chatbot for assistance.  
+✅ **Zora AI Chatbot** – Smart AI chatbot for assistance.  
 ✅ **Wholesome Assistance** – Covers essential daily tasks.  
 
 ## 🔹 Tools & Technologies Used
